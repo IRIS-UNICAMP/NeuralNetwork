@@ -1,2 +1,0 @@
-print("Oi")
-print("aaaaa")
